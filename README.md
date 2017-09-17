@@ -7,13 +7,15 @@ It uses a primitive Perceptron Machine Learning algorithm to build a predictive 
 
 With many loops of the algorithm, the weighting becomes more accurate reaching 95% accuracy after 500 iterations.
 
+New test data can then be manually input to test the predictive capabilities.
+
 Data Source
 ---
-City of Calgary Open Data
-Title: Fire Emergency Response Calls
-Last Updated: Sept 14, 2017
-Total Records: 17,510
-Accessed at: https://data.calgary.ca/Government/Fire-Emergency-Response-Calls/bdez-pds9
+- City of Calgary Open Data
+- Title: Fire Emergency Response Calls
+- Last Updated: Sept 14, 2017
+- Total Records: 17,510
+- Accessed at: https://data.calgary.ca/Government/Fire-Emergency-Response-Calls/bdez-pds9
 
 Tech Stack
 ---
