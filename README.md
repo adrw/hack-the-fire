@@ -25,3 +25,4 @@ Tech Stack
 - NumPy
 
 Built at Hack the North 2017.
+- [DevPost](https://devpost.com/software/hack-the-fire)
