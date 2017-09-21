@@ -1,9 +1,9 @@
 Hack the Fire
 ---
 
-Hack the Fire uses Calgary Open Data as training data so it can predict based only on date and # of incidents whether a response by the Calgary Fire Department was to a Fire or to another incident. 
+Hack the Fire uses Calgary Open Data as training data so it can predict based only on date and # of incidents whether a response by the Calgary Fire Department was to a Fire or to another incident (health, misc...).
 
-It uses a primitive Perceptron Machine Learning algorithm to build a predictive weighting. 
+It uses a primitive Perceptron Machine Learning algorithm to build a predictive weighting.
 
 With many loops of the algorithm, the weighting becomes more accurate reaching 95% accuracy after 500 iterations.
 
@@ -19,10 +19,10 @@ Data Source
 
 Tech Stack
 ---
-- Jupyter
 - Python 3.6
-- Panda
+- Pandas
 - NumPy
+- Jupyter
 
-Built at Hack the North 2017.
+Built at Hack the North 2017. Not under ongoing development.
 - [DevPost](https://devpost.com/software/hack-the-fire)
